@@ -2,7 +2,6 @@
 // Created by Zihao Liu on 23-1-31.
 //
 
-#include "servo_command.hpp"
 // ROS
 #include <rclcpp/rclcpp.hpp>
 
